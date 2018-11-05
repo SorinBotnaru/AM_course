@@ -2,105 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b7ce43e-6838-435f-9e41-43ba014a12db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Parking/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Parking/Iinfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Parking/Parking.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Parking/ParkingState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Parking/PlaceState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Parking/Places.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/Goal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/League.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/Goal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/League.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/Goal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/League.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/GameEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Goal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/League.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Possession.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/Goal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/League.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/Goal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/League.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/Goal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/League.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/utility/PlayerDatabase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/utility/PlayerDatabaseException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/utility/PlayerDatabase_13_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parking/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parking/Iinfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parking/Parking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parking/ParkingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parking/PlaceState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parking/Places.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_10_3/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_10_3/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_10_3/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_10_3/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_10_3/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_11_4/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_11_4/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_11_4/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_11_4/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_11_4/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_12_5_AND_15_2/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_12_5_AND_15_2/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_12_5_AND_15_2/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_12_5_AND_15_2/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_12_5_AND_15_2/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_13_4_Q/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_13_4_Q/GameEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_13_4_Q/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_13_4_Q/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_13_4_Q/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_13_4_Q/Possession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_13_4_Q/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_6_3/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_6_3/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_6_3/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_6_3/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_6_3/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_7_4/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_7_4/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_7_4/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_7_4/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_7_4/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_8_3/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_8_3/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_8_3/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_8_3/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_8_3/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utility/PlayerDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utility/PlayerDatabaseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utility/PlayerDatabase_13_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Parking/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Parking/Iinfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Parking/Parking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Parking/ParkingState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Parking/PlaceState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Parking/Places.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_10_3/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_11_4/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_12_5_AND_15_2/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/GameEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Possession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_13_4_Q/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_6_3/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_7_4/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Practice_8_3/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/utility/PlayerDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/utility/PlayerDatabaseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/utility/PlayerDatabase_13_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parking/Parking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parking/Parking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parking/ParkingState.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,43 +84,55 @@
     <session id="1211074385">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.51" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="200" />
+          <entry key="java" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="200" />
+          <entry key="JAVA" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="16946" />
+          <entry key="java" value="16948" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16946" />
+          <entry key="JAVA" value="16948" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Parking/Parking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="43" column="88" selection-start-line="43" selection-start-column="88" selection-end-line="43" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -234,8 +198,8 @@
         <option value="$PROJECT_DIR$/src/Parking/ParkingState.java" />
         <option value="$PROJECT_DIR$/src/Parking/utility/PlacesDatabase.java" />
         <option value="$PROJECT_DIR$/src/Parking/App.java" />
-        <option value="$PROJECT_DIR$/src/Parking/Parking.java" />
         <option value="$PROJECT_DIR$/src/Parking/Places.java" />
+        <option value="$PROJECT_DIR$/src/Parking/Parking.java" />
       </list>
     </option>
   </component>
@@ -251,7 +215,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -265,7 +229,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,19 +236,34 @@
               <item name="Practice_6_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice_6_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice_6_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Parking" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541414221653" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541420339515" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
@@ -326,7 +304,7 @@
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Parking.App" />
-      <module name="Practice" />
+      <module name="Task 2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Parking.*" />
@@ -339,7 +317,7 @@
     </configuration>
     <configuration name="League (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_11_4.League" />
-      <module name="Practice" />
+      <module name="Task 2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice_11_4.*" />
@@ -352,7 +330,7 @@
     </configuration>
     <configuration name="League" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_13_4_Q.League" />
-      <module name="Practice" />
+      <module name="Task 2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice_13_4_Q.*" />
@@ -378,7 +356,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TaskClass.Main" />
-      <module name="Practice" />
+      <module name="Task 2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TaskClass.*" />
@@ -391,7 +369,6 @@
     </configuration>
     <list>
       <item itemvalue="Application.League (4)" />
-      <item itemvalue="Application.League (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.League" />
       <item itemvalue="Application.App" />
@@ -400,7 +377,6 @@
       <list>
         <item itemvalue="Application.App" />
         <item itemvalue="Application.League" />
-        <item itemvalue="Application.League (5)" />
         <item itemvalue="Application.League (4)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -417,17 +393,19 @@
       <workItem from="1540839972242" duration="14460000" />
       <workItem from="1540896935220" duration="48225000" />
       <workItem from="1541058300031" duration="72141000" />
-      <workItem from="1541247964015" duration="42441000" />
+      <workItem from="1541247964015" duration="42442000" />
+      <workItem from="1541419916633" duration="196000" />
+      <workItem from="1541420194273" duration="143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187438000" />
+    <option name="totallyTimeSpent" value="187778000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.31467474" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.3245083" />
       <window_info id="Maven Projects" order="1" sideWeight="0.5021645" side_tool="true" weight="0.13691376" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
@@ -437,7 +415,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32733223" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24549918" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24549918" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2487725" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -513,10 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -559,14 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -574,19 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -601,16 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,12 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,10 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-591">
           <caret line="768" column="47" selection-start-line="768" selection-start-column="47" selection-end-line="768" selection-end-column="47" />
-          <folding>
-            <element signature="e#32010#32011#0" expanded="true" />
-            <element signature="e#32095#32096#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,9 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="50" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,10 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,9 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3004">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,9 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="99" column="10" selection-start-line="99" selection-start-column="10" selection-end-line="101" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,19 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parking/utility/PlacesDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#219#240#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parking/utility/PlacesDatabase.java" />
     <entry file="file://$PROJECT_DIR$/src/Practice_13_4_Q/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -845,9 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,17 +767,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parking/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parking/User.java" />
     <entry file="file://$PROJECT_DIR$/src/Parking/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -890,25 +782,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parking/Parking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Parking/Places.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parking/Parking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="43" column="88" selection-start-line="43" selection-start-column="88" selection-end-line="43" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Task 2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

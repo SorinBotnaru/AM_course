@@ -41,7 +41,7 @@ public class Parking implements Iinfo {
                 }
             }
         } else {
-            System.out.println("\nThis place is BUSY or is UNAIVAILABLE, Please choose FREE place");
+            System.out.println("\nThis place is BUSY or is UNAIVAILABLE, Please choose a FREE place");
             Places.dislayFreePlaces();
         }
 
