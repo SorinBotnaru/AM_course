@@ -1,6 +1,7 @@
-package Practice_13_4_Q;
+package Practice_14_3;
 
 
+import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -13,6 +14,7 @@ public class Game {
     private static int sincronizeTeamGoals2;
     private static int numberOfGames;
     private Team[] teams;
+
     public static void setNumberOfGames(int numberOfGames) {
         Game.numberOfGames = numberOfGames;
     }
@@ -119,11 +121,20 @@ public class Game {
 
                 if (store.containsKey(randTeam)) {
                     store.put(randTeam, store.get(randTeam) + (+1));
-                    teams[randTeam].setTotalScore(1);
+
+                        teams[randTeam].setTotalScore(1);
+
+                }
+                hash_Set.add(randTeam);
+                int randPossesion= (int) (Math.random()*4);
+                if (randPossesion!=0){
+                    new Goal(Math.random() * 90, teams[randTeam], teams[randTeam].getPlayers()[(int) (Math.random() * 4)]);
+                }
+                else if (randPossesion==0){
+                    new Possession(Math.random() * 90, teams[randTeam], teams[randTeam].getPlayers()[(int) (Math.random() * 4)]);
                 }
 
-                hash_Set.add(randTeam);
-                new Goal(Math.random() * 90, teams[randTeam], teams[randTeam].getPlayers()[(int) (Math.random() * 4)]);
+
 
             }
             if (hash_Set.size() == 1 && (!hash_Set.isEmpty())) {

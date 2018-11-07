@@ -1,4 +1,4 @@
-package Practice_13_4_Q;
+package Practice_14_3;
 
 import java.text.DecimalFormat;
 
@@ -10,13 +10,9 @@ public abstract class GameEvent {
     private double time;
 
     public GameEvent(double time, Team team, Player player) {
-        int rand= (int) (Math.random()*1);
-        if (rand==0){
-            System.out.println("Possesion scored after " + new DecimalFormat("##.##").format(time) + " mins by " + player + " of the " + team);
-        }
-        else {
+
             System.out.println("Goal scored after " + new DecimalFormat("##.##").format(time) + " mins by " + player + " of the " + team);
-        }
+
 
     }
 
